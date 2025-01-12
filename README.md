@@ -2,7 +2,7 @@
 experimenting with servo motor with the ESP32 arduino board
 
 
-# ESP32 LED and Servo Control Project
+# ESP32 LED and Servo Toggle Control Project
 
 This project demonstrates how to control an LED and a servo motor via a web interface using the ESP32. It includes wiring details, code logic, and steps for replication.
 
