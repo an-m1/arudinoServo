@@ -30,11 +30,11 @@ This project demonstrates how to control an LED and a servo motor via a web inte
 
 ## **Code Logic**
 ### **Overview**
-The code sets up the ESP32 as a web server, allowing clients to control the LED and servo motor through HTTP requests.
+The code sets up the ESP32 as a web server, allowing clients to control the LED and servo motor through HTTP requests. I used the index.html from my 'arduinoLight' repository, as that website already had a toggle button ready.
 
 ### **Key Features**
 1. **WiFi Connection**:
-   - The ESP32 connects to a specified WiFi network using the provided SSID and password.
+   - The ESP32 connects to a specified WiFi network using the provided SSID and password. You will need to change this in the .ino code file.
 
 2. **Web Server**:
    - A web server listens for incoming HTTP requests on port 80.
